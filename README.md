@@ -1,0 +1,2 @@
+# PinnedHeaderExpandableAndList
+这是一个仿微信检索的联系人排序跟QQ分组联系人使用ListView实现的效果
